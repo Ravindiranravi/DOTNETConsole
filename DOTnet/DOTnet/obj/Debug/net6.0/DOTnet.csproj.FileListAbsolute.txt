@@ -1,0 +1,14 @@
+C:\DOTNET\DOTnet\DOTnet\bin\Debug\net6.0\DOTnet.exe
+C:\DOTNET\DOTnet\DOTnet\bin\Debug\net6.0\DOTnet.deps.json
+C:\DOTNET\DOTnet\DOTnet\bin\Debug\net6.0\DOTnet.runtimeconfig.json
+C:\DOTNET\DOTnet\DOTnet\bin\Debug\net6.0\DOTnet.dll
+C:\DOTNET\DOTnet\DOTnet\bin\Debug\net6.0\DOTnet.pdb
+C:\DOTNET\DOTnet\DOTnet\obj\Debug\net6.0\DOTnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOTNET\DOTnet\DOTnet\obj\Debug\net6.0\DOTnet.AssemblyInfoInputs.cache
+C:\DOTNET\DOTnet\DOTnet\obj\Debug\net6.0\DOTnet.AssemblyInfo.cs
+C:\DOTNET\DOTnet\DOTnet\obj\Debug\net6.0\DOTnet.csproj.CoreCompileInputs.cache
+C:\DOTNET\DOTnet\DOTnet\obj\Debug\net6.0\DOTnet.dll
+C:\DOTNET\DOTnet\DOTnet\obj\Debug\net6.0\refint\DOTnet.dll
+C:\DOTNET\DOTnet\DOTnet\obj\Debug\net6.0\DOTnet.pdb
+C:\DOTNET\DOTnet\DOTnet\obj\Debug\net6.0\DOTnet.genruntimeconfig.cache
+C:\DOTNET\DOTnet\DOTnet\obj\Debug\net6.0\ref\DOTnet.dll
